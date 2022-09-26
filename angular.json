@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "CrudApp": {
+
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/crud-app",
+
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -23,12 +23,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "node_modules/bootstrap/dist/css/bootstrap.min.css"
-            ],
-            "scripts": [
-              "node_modules/bootstrap/dist/js/bootstrap.min.js"
-          ]
+
           },
           "configurations": {
             "production": {
@@ -67,10 +62,7 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "CrudApp:build:production"
-            },
-            "development": {
-              "browserTarget": "CrudApp:build:development"
+
             }
           },
           "defaultConfiguration": "development"
@@ -78,7 +70,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "CrudApp:build"
+
           }
         },
         "test": {
@@ -102,6 +94,6 @@
     }
   },
   "cli": {
-    "analytics": "76dbd093-ff62-4e6f-bae2-8e6a9ff42a41"
+
   }
 }

@@ -1,0 +1,32 @@
+Block code 			ब्लॉक कोड
+Block name			ब्लॉक नाव
+Boundary area		सीमा क्षेत्र
+Boundary perimeter	सीमा परिमिती
+Data sources		डेटा स्रोत
+District code		जिल्हा कोड
+District name		जिल्ह्याचे नाव
+I area			I क्षेत्र
+Class - 			वर्ग
+Data source- 		माहितीचा स्रोत
+Description - 		वर्णन
+gisID				जीआईएसआईडी
+I perim			I परिमिती
+Ogc fid			ओजीसी  एफआईडी
+Remarks			टीका
+State code			राज्य कोड
+State name			राज्याचे नाव
+Divi code			डीआयव्ही कोड
+Divi name			दिवी नाव
+Wkb geometry		डब्ल्यूकेबी भूमिती
+Thsil code			तहसील कोड
+Thsil name			तहसील नाव
+Gut number			आतडे क्रमांक
+Sc code			एससी कोड
+Sub class			उपवर्ग
+Ward name			प्रभाग नाव
+Ward Number			प्रभाग क्रमांक
+Zone name			झोन नाव
+Zone number			झोन क्रमांक
+Ascii id			असीसी आईडी
+
+
